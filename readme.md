@@ -6,7 +6,7 @@
 + github: [https://github.com/wlxscn](https://github.com/wlxscn)
 
 ## 技能树
-![技能树](./skills.svg "技能树")
+![技能树](skills.svg "技能树")
 
 ## 工作经历
 
